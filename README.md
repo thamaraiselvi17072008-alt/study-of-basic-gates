@@ -63,6 +63,9 @@ Y= A⊕B
 
 
 **PROGRAM**
+
+
+
 module exp1(a,b,c1,c2,c3,c4,c5,c6,c7); 
 input a,b; 
 output c1,c2,c3,c4,c5,c6,c7; 
@@ -75,9 +78,15 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b); 
 endmodule 
 
+
+
+
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by:V.Thamaraiselvi
+
+
+ 
  RegisterNumber:25015455
 
  
