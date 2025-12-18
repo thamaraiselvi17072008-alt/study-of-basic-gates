@@ -76,10 +76,7 @@ xor g6(c6,a,b);
 xnor g7(c7,a,b); 
 endmodule 
 
-
-
-
-
+```
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
